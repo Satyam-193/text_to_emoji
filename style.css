@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: gilroy;
-    color: #fff;
+    color: #222;
 }
 
  html,
@@ -15,7 +15,7 @@
  #main{
     height: 100%;
     width: 100%;
-    background-color: #222;
+    background-color: #fff;
 
  }
  
